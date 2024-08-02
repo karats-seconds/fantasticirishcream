@@ -21,3 +21,4 @@ Performance Kubernetes Docker Opportunities don't happen. You create them. Diffi
 Stay hungry, stay foolish. Docker DNS Routing Monitoring Server Response Zero Downtime Deployment If you can dream it, you can do it. Act as if what you do makes a difference. It does. Dream big and dare to fail. Neural Networks Event-driven Architecture Event Sourcing A/B Testing
 Lambda Functions Simplicity is the ultimate sophistication. Pull Request API Gateway I find that the harder I work, the more luck I seem to have. Big Data API Artificial Intelligence
 Performance Work hard in silence, let your success be your noise. Docker Firewalls Automation Neural Networks Replica Set API Gateway The only way to do great work is to love what you do. Edge Computing
+Edge Computing Server Response GraphQL API Kubernetes Big Data Success is not in what you have, but who you are. Data Pipeline API Gateway Pull Request Algorithm Multi-threading Cloud Functions
