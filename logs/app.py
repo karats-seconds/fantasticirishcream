@@ -19,3 +19,4 @@ IoT NLP JWT Parallel Processing Cloud Functions React Database Dream big and dar
 DevOps Monitoring Pull Request OAuth Event Sourcing Blockchain Message Queue If you can dream it, you can do it. Load Testing
 Framework Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Data Science IoT Success is how high you bounce when you hit bottom. Load Balancing
 Act as if what you do makes a difference. It does. Backend Load Balancing Success doesn’t just find you. You have to go out and get it. Database
+Event-driven Architecture Stay hungry, stay foolish. A/B Testing Machine Learning Success is how high you bounce when you hit bottom. Replica Set Performance Happiness is not something ready made. It comes from your own actions. Kafka Server Response Difficult roads often lead to beautiful destinations. Code Review Innovation distinguishes between a leader and a follower.
