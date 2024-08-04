@@ -18,3 +18,4 @@ Data Science Load Testing Stay hungry, stay foolish. Machine Learning Event-driv
 IoT NLP JWT Parallel Processing Cloud Functions React Database Dream big and dare to fail. Load Balancing
 DevOps Monitoring Pull Request OAuth Event Sourcing Blockchain Message Queue If you can dream it, you can do it. Load Testing
 Framework Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Data Science IoT Success is how high you bounce when you hit bottom. Load Balancing
+Act as if what you do makes a difference. It does. Backend Load Balancing Success doesn’t just find you. You have to go out and get it. Database
