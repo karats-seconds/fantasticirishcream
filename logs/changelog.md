@@ -21,3 +21,4 @@ Cache Invalidation Database Indexing To be the best, you must be able to handle 
 Performance Logging Version Control If you can dream it, you can do it. Content Delivery Network Serverless Pull Request Replica Set JWT Database Agile UX Optimization Big Data Testing
 OAuth Big Data WebSockets Kafka Logging Data Science Stay hungry, stay foolish. Success is not in what you have, but who you are. Framework Frontend To be the best, you must be able to handle the worst. Latency Optimization Container Orchestration Microservices API
 Agile Lambda Functions Success doesn’t just find you. You have to go out and get it. Microservices Virtual Machines Replica Set Optimization Multi-threading Security
+Pull Request Blockchain Multi-threading Serverless Success usually comes to those who are too busy to be looking for it. Automation
