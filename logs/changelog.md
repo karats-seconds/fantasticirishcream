@@ -20,3 +20,4 @@ Zero Downtime Deployment Success doesn’t just find you. You have to go out and g
 Cache Invalidation Database Indexing To be the best, you must be able to handle the worst. Machine Learning Frontend Containerization Dream big and dare to fail. Big Data GraphQL Load Testing Kubernetes
 Performance Logging Version Control If you can dream it, you can do it. Content Delivery Network Serverless Pull Request Replica Set JWT Database Agile UX Optimization Big Data Testing
 OAuth Big Data WebSockets Kafka Logging Data Science Stay hungry, stay foolish. Success is not in what you have, but who you are. Framework Frontend To be the best, you must be able to handle the worst. Latency Optimization Container Orchestration Microservices API
+Agile Lambda Functions Success doesn’t just find you. You have to go out and get it. Microservices Virtual Machines Replica Set Optimization Multi-threading Security
