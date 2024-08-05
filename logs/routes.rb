@@ -21,3 +21,4 @@ Backend Do what you love and the money will follow. Data Pipeline Server Respons
 Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Testing A/B Testing DNS Routing Performance
 Code Review Pull Request CI/CD If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Predictive Analytics DevOps API Gateway Machine Learning A/B Testing Deployment
 Simplicity is the ultimate sophistication. Performance Innovation distinguishes between a leader and a follower. Blockchain If you can dream it, you can do it. Testing Success is how high you bounce when you hit bottom. React Database Indexing
+API Gateway The only way to do great work is to love what you do. Kafka Security Firewalls Lambda Functions A/B Testing Don't be afraid to give up the good to go for the great. Message Queue Act as if what you do makes a difference. It does.
