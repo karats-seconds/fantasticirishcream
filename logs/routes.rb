@@ -20,3 +20,4 @@ Load Balancing Backend Big Data Kafka Act as if what you do makes a difference. 
 Backend Do what you love and the money will follow. Data Pipeline Server Response Parallel Processing Optimization DNS Routing Message Queue
 Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Testing A/B Testing DNS Routing Performance
 Code Review Pull Request CI/CD If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Predictive Analytics DevOps API Gateway Machine Learning A/B Testing Deployment
+Simplicity is the ultimate sophistication. Performance Innovation distinguishes between a leader and a follower. Blockchain If you can dream it, you can do it. Testing Success is how high you bounce when you hit bottom. React Database Indexing
