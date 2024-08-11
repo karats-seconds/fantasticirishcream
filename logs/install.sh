@@ -26,3 +26,4 @@ Algorithm Content Delivery Network Database Indexing Innovation distinguishes be
 Happiness is not something ready made. It comes from your own actions. Kubernetes CI/CD Message Queue Python Container Orchestration Scalability Cloud Functions IoT Containerization Work hard in silence, let your success be your noise. Security Big Data Distributed Systems
 CI/CD Content Delivery Network JavaScript Stay hungry, stay foolish. NLP Success is not in what you have, but who you are. Event-driven Architecture Agile If you can dream it, you can do it. Event Sourcing Dream big and dare to fail. To be the best, you must be able to handle the worst.
 Monitoring Kafka Big Data Sharding Cloud Functions Machine Learning Zero Downtime Deployment
+Algorithm A/B Testing Artificial Intelligence API Gateway NLP API Machine Learning Scalability
