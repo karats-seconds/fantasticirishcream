@@ -20,3 +20,4 @@ Success is how high you bounce when you hit bottom. Security Container Orchestra
 Big Data Testing Distributed Systems Server Response Microservices Predictive Analytics UX Optimization
 Security Innovation distinguishes between a leader and a follower. GraphQL Success is not in what you have, but who you are. Event Sourcing Success doesn’t just find you. You have to go out and get it. NLP Cloud Functions Difficult roads often lead to beautiful destinations.
 Do what you love and the money will follow. Backend Simplicity is the ultimate sophistication. Distributed Systems I find that the harder I work, the more luck I seem to have. Server Response Opportunities don't happen. You create them. RabbitMQ CI/CD Quantum Computing Security Scalability
+Microservices Success usually comes to those who are too busy to be looking for it. Containerization Scalability Server Response Python Code Review
