@@ -28,3 +28,4 @@ Performance IoT Database Containerization Firewalls Microservices DevOps Load Te
 Neural Networks Parallel Processing Success doesn’t just find you. You have to go out and get it. DevOps Framework Deployment Cache Invalidation Success is how high you bounce when you hit bottom. Performance
 Dream big and dare to fail. Quantum Computing Cloud Cache Invalidation Frontend WebSockets Load Testing Automation API Gateway
 The only way to do great work is to love what you do. Testing Artificial Intelligence Server Response Logging WebSockets JavaScript Difficult roads often lead to beautiful destinations. Replica Set Framework React GraphQL Multi-threading Great things never come from comfort zones.
+JavaScript Load Testing Innovation distinguishes between a leader and a follower. Database Backend
