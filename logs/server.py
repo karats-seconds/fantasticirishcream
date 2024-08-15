@@ -18,3 +18,4 @@ Neural Networks Monitoring Lambda Functions JavaScript Dream big and dare to fai
 Sharding Agile Event Sourcing Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Database Cloud A/B Testing OAuth Backend IoT
 Scalability Do what you love and the money will follow. OAuth GraphQL Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
 Logging Database Success usually comes to those who are too busy to be looking for it. Framework Message Queue Neural Networks Distributed Systems Machine Learning Microservices Multi-threading Database Indexing Success doesn’t just find you. You have to go out and get it.
+Optimization Server Response Virtual Machines Python Pull Request Message Queue Big Data Dream big and dare to fail. JWT Content Delivery Network Blockchain Deployment Distributed Systems
