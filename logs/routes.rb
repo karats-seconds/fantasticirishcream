@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Testing Code Review Event-driv
 Load Balancing Backend Big Data Kafka Act as if what you do makes a difference. It does. Containerization Great things never come from comfort zones. Dream big and dare to fail. Sharding Machine Learning
 Backend Do what you love and the money will follow. Data Pipeline Server Response Parallel Processing Optimization DNS Routing Message Queue
 Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Testing A/B Testing DNS Routing Performance
+Code Review Pull Request CI/CD If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Predictive Analytics DevOps API Gateway Machine Learning A/B Testing Deployment
