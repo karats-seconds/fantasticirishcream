@@ -20,3 +20,4 @@ Sharding Artificial Intelligence Big Data Algorithm Kafka Logging Microservices 
 Opportunities don't happen. You create them. Scalability Sharding Kafka Cloud Functions
 Version Control DNS Routing Agile Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Parallel Processing
 Database Innovation distinguishes between a leader and a follower. Firewalls Distributed Systems Container Orchestration Logging NLP Edge Computing Machine Learning Code Review Event Sourcing Predictive Analytics Cloud Functions DNS Routing Algorithm
+Success is how high you bounce when you hit bottom. Lambda Functions JavaScript GraphQL If you can dream it, you can do it. IoT Do what you love and the money will follow. Logging Cache Invalidation
