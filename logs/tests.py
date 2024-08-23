@@ -23,3 +23,4 @@ Happiness is not something ready made. It comes from your own actions. Event Sou
 Lambda Functions React Testing Monitoring Latency Optimization OAuth Serverless GraphQL Kafka
 Scalability Edge Computing Replica Set Serverless Content Delivery Network
 Distributed Systems Lambda Functions OAuth Deployment Content Delivery Network DevOps Python Big Data GraphQL React Frontend Happiness is not something ready made. It comes from your own actions.
+Act as if what you do makes a difference. It does. Edge Computing Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Cloud Functions Database Algorithm CI/CD Cache Invalidation Blockchain Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. A/B Testing
