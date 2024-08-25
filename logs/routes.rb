@@ -18,3 +18,4 @@ Multi-threading Database Indexing Testing OAuth Artificial Intelligence Predicti
 Success is not in what you have, but who you are. Testing Code Review Event-driven Architecture Optimization
 Load Balancing Backend Big Data Kafka Act as if what you do makes a difference. It does. Containerization Great things never come from comfort zones. Dream big and dare to fail. Sharding Machine Learning
 Backend Do what you love and the money will follow. Data Pipeline Server Response Parallel Processing Optimization DNS Routing Message Queue
+Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Testing A/B Testing DNS Routing Performance
