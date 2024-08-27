@@ -27,3 +27,4 @@ Success usually comes to those who are too busy to be looking for it. DevOps Sha
 Performance IoT Database Containerization Firewalls Microservices DevOps Load Testing Framework Message Queue Event-driven Architecture Don't be afraid to give up the good to go for the great.
 Neural Networks Parallel Processing Success doesn’t just find you. You have to go out and get it. DevOps Framework Deployment Cache Invalidation Success is how high you bounce when you hit bottom. Performance
 Dream big and dare to fail. Quantum Computing Cloud Cache Invalidation Frontend WebSockets Load Testing Automation API Gateway
+The only way to do great work is to love what you do. Testing Artificial Intelligence Server Response Logging WebSockets JavaScript Difficult roads often lead to beautiful destinations. Replica Set Framework React GraphQL Multi-threading Great things never come from comfort zones.

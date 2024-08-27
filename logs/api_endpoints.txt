@@ -22,3 +22,4 @@ Edge Computing Server Response Serverless Do what you love and the money will fo
 Python Dream big and dare to fail. Optimization Predictive Analytics Quantum Computing
 Python Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Message Queue OAuth React Distributed Systems
 Distributed Systems Kubernetes Great things never come from comfort zones. Docker RabbitMQ Testing Simplicity is the ultimate sophistication. API Sharding API Gateway Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Optimization Event Sourcing GraphQL
+Monitoring Work hard in silence, let your success be your noise. Parallel Processing Virtual Machines WebSockets Deployment
