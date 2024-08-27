@@ -16,3 +16,4 @@ Difficult roads often lead to beautiful destinations. React Edge Computing Monit
 OAuth Performance Opportunities don't happen. You create them. IoT Version Control Monitoring
 Data Science Load Testing Stay hungry, stay foolish. Machine Learning Event-driven Architecture Serverless Lambda Functions
 IoT NLP JWT Parallel Processing Cloud Functions React Database Dream big and dare to fail. Load Balancing
+DevOps Monitoring Pull Request OAuth Event Sourcing Blockchain Message Queue If you can dream it, you can do it. Load Testing
