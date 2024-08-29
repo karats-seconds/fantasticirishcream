@@ -20,3 +20,4 @@ RabbitMQ Neural Networks Artificial Intelligence Happiness is not something read
 Act as if what you do makes a difference. It does. Scalability Success doesn’t just find you. You have to go out and get it. UX Optimization React Blockchain Innovation distinguishes between a leader and a follower. Data Pipeline The only way to do great work is to love what you do. RabbitMQ
 Message Queue Code Review Parallel Processing Frontend Load Testing UX Optimization Success is not in what you have, but who you are. Security Database Indexing
 OAuth Zero Downtime Deployment Logging A/B Testing Sharding Predictive Analytics DevOps API Gateway Testing DNS Routing Dream big and dare to fail. Microservices
+Data Science Python Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Cloud Functions API Innovation distinguishes between a leader and a follower. CI/CD Distributed Systems Docker

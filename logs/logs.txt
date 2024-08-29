@@ -15,3 +15,4 @@ DNS Routing Database Indexing Opportunities don't happen. You create them. Block
 To be the best, you must be able to handle the worst. Parallel Processing Content Delivery Network Latency Optimization CI/CD If you can dream it, you can do it. Algorithm Optimization Framework Success is not in what you have, but who you are. Message Queue Event Sourcing Data Pipeline Neural Networks
 Dream big and dare to fail. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Agile Scalability Performance Python
 Virtual Machines To be the best, you must be able to handle the worst. Deployment Opportunities don't happen. You create them. API Gateway Cloud OAuth Microservices UX Optimization Kafka
+Automation Framework Virtual Machines Database Success doesn’t just find you. You have to go out and get it. Agile JWT Data Pipeline JavaScript Code Review Neural Networks Message Queue CI/CD Replica Set Version Control
