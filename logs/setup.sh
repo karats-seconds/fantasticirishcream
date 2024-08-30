@@ -18,3 +18,4 @@ Quantum Computing Replica Set API Sharding CI/CD
 Framework Lambda Functions DevOps Testing Blockchain Containerization Quantum Computing Microservices A/B Testing Python Content Delivery Network CI/CD Data Pipeline Do what you love and the money will follow. Innovation distinguishes between a leader and a follower.
 Sharding Artificial Intelligence Big Data Algorithm Kafka Logging Microservices Innovation distinguishes between a leader and a follower.
 Opportunities don't happen. You create them. Scalability Sharding Kafka Cloud Functions
+Version Control DNS Routing Agile Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Parallel Processing
