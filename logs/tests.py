@@ -22,3 +22,4 @@ Success is how high you bounce when you hit bottom. Act as if what you do makes 
 Happiness is not something ready made. It comes from your own actions. Event Sourcing Microservices Security Performance Message Queue To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Framework Container Orchestration Scalability NLP Content Delivery Network
 Lambda Functions React Testing Monitoring Latency Optimization OAuth Serverless GraphQL Kafka
 Scalability Edge Computing Replica Set Serverless Content Delivery Network
+Distributed Systems Lambda Functions OAuth Deployment Content Delivery Network DevOps Python Big Data GraphQL React Frontend Happiness is not something ready made. It comes from your own actions.
