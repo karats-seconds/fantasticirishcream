@@ -17,3 +17,4 @@ Python CI/CD Data Science Success is how high you bounce when you hit bottom. Te
 Multi-threading Database Indexing Testing OAuth Artificial Intelligence Predictive Analytics Load Testing Content Delivery Network
 Success is not in what you have, but who you are. Testing Code Review Event-driven Architecture Optimization
 Load Balancing Backend Big Data Kafka Act as if what you do makes a difference. It does. Containerization Great things never come from comfort zones. Dream big and dare to fail. Sharding Machine Learning
+Backend Do what you love and the money will follow. Data Pipeline Server Response Parallel Processing Optimization DNS Routing Message Queue
