@@ -16,3 +16,4 @@ Code Review Distributed Systems Success usually comes to those who are too busy 
 Edge Computing Latency Optimization Pull Request The only way to do great work is to love what you do. IoT Dream big and dare to fail. Framework
 Neural Networks Monitoring Lambda Functions JavaScript Dream big and dare to fail. Don't be afraid to give up the good to go for the great. DevOps Opportunities don't happen. You create them. NLP Zero Downtime Deployment IoT Success is how high you bounce when you hit bottom. Frontend Kafka Python
 Sharding Agile Event Sourcing Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Database Cloud A/B Testing OAuth Backend IoT
+Scalability Do what you love and the money will follow. OAuth GraphQL Happiness is not something ready made. It comes from your own actions. Artificial Intelligence

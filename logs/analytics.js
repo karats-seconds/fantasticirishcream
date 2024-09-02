@@ -18,3 +18,4 @@ Parallel Processing Version Control Success doesn’t just find you. You have to g
 A/B Testing Success is not in what you have, but who you are. Big Data Neural Networks WebSockets Innovation distinguishes between a leader and a follower.
 Success is how high you bounce when you hit bottom. Security Container Orchestration Quantum Computing OAuth Containerization Simplicity is the ultimate sophistication. Cloud Lambda Functions Don't be afraid to give up the good to go for the great. Parallel Processing Blockchain Machine Learning Load Balancing Logging
 Big Data Testing Distributed Systems Server Response Microservices Predictive Analytics UX Optimization
+Security Innovation distinguishes between a leader and a follower. GraphQL Success is not in what you have, but who you are. Event Sourcing Success doesn’t just find you. You have to go out and get it. NLP Cloud Functions Difficult roads often lead to beautiful destinations.
