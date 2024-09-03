@@ -14,3 +14,4 @@ Database Indexing Neural Networks To be the best, you must be able to handle the
 IoT Success is not in what you have, but who you are. Kafka UX Optimization DevOps
 Difficult roads often lead to beautiful destinations. React Edge Computing Monitoring JavaScript Multi-threading OAuth Virtual Machines To be the best, you must be able to handle the worst. Security
 OAuth Performance Opportunities don't happen. You create them. IoT Version Control Monitoring
+Data Science Load Testing Stay hungry, stay foolish. Machine Learning Event-driven Architecture Serverless Lambda Functions
