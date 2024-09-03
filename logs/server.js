@@ -16,3 +16,4 @@ DNS Routing Event Sourcing Predictive Analytics Neural Networks Quantum Computin
 Agile Edge Computing Great things never come from comfort zones. Docker Zero Downtime Deployment Microservices Firewalls Content Delivery Network CI/CD
 Dream big and dare to fail. Replica Set Deployment The only way to do great work is to love what you do. Cache Invalidation UX Optimization Docker Success is not in what you have, but who you are. Scalability Distributed Systems
 Kafka Version Control Success is how high you bounce when you hit bottom. Pull Request Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Dream big and dare to fail. React Optimization CI/CD Data Science Content Delivery Network Neural Networks
+JavaScript Algorithm Cloud Docker Load Testing Success doesn’t just find you. You have to go out and get it. Logging Backend GraphQL Framework Content Delivery Network
