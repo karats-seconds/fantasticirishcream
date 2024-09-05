@@ -16,3 +16,4 @@ Dream big and dare to fail. Latency Optimization GraphQL NLP Automation Message 
 Virtual Machines Content Delivery Network Frontend Code Review Machine Learning Big Data
 Monitoring Agile Quantum Computing Success is not in what you have, but who you are. DevOps Act as if what you do makes a difference. It does. Automation
 Deployment Big Data Kafka Pull Request To be the best, you must be able to handle the worst. WebSockets Load Testing Artificial Intelligence UX Optimization If you can dream it, you can do it. Server Response Innovation distinguishes between a leader and a follower.
+Dream big and dare to fail. Sharding Happiness is not something ready made. It comes from your own actions. Docker Blockchain Event Sourcing Automation JWT IoT
