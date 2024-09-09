@@ -17,3 +17,4 @@ Content Delivery Network A/B Testing Server Response Predictive Analytics Kubern
 Quantum Computing Replica Set API Sharding CI/CD
 Framework Lambda Functions DevOps Testing Blockchain Containerization Quantum Computing Microservices A/B Testing Python Content Delivery Network CI/CD Data Pipeline Do what you love and the money will follow. Innovation distinguishes between a leader and a follower.
 Sharding Artificial Intelligence Big Data Algorithm Kafka Logging Microservices Innovation distinguishes between a leader and a follower.
+Opportunities don't happen. You create them. Scalability Sharding Kafka Cloud Functions

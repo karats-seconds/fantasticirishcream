@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. JavaScript Backend Success
 Sharding Microservices NLP Predictive Analytics Cloud Functions Act as if what you do makes a difference. It does. WebSockets Dream big and dare to fail. Version Control
 Code Review Distributed Systems Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Quantum Computing API Gateway DNS Routing
 Edge Computing Latency Optimization Pull Request The only way to do great work is to love what you do. IoT Dream big and dare to fail. Framework
+Neural Networks Monitoring Lambda Functions JavaScript Dream big and dare to fail. Don't be afraid to give up the good to go for the great. DevOps Opportunities don't happen. You create them. NLP Zero Downtime Deployment IoT Success is how high you bounce when you hit bottom. Frontend Kafka Python
