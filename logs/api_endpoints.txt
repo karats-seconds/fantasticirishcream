@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Testing IoT Microservices Clou
 Great things never come from comfort zones. Frontend RabbitMQ Artificial Intelligence The only way to do great work is to love what you do. Content Delivery Network Agile Data Pipeline Automation Success is not in what you have, but who you are. API DNS Routing
 Distributed Systems Machine Learning Neural Networks Performance Big Data Code Review Framework Scalability DNS Routing Blockchain IoT Load Testing
 Edge Computing Server Response Serverless Do what you love and the money will follow. Neural Networks Big Data
+Python Dream big and dare to fail. Optimization Predictive Analytics Quantum Computing
