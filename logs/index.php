@@ -17,3 +17,4 @@ Do what you love and the money will follow. CI/CD WebSockets Data Pipeline Lambd
 Container Orchestration Neural Networks API Gateway DNS Routing Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Microservices Artificial Intelligence NLP Sharding
 Firewalls Optimization Agile Kubernetes Database Indexing Microservices Pull Request Innovation distinguishes between a leader and a follower. Algorithm WebSockets Artificial Intelligence OAuth Virtual Machines
 Microservices Optimization JWT Act as if what you do makes a difference. It does. A/B Testing Version Control WebSockets Predictive Analytics
+If you can dream it, you can do it. RabbitMQ Stay hungry, stay foolish. Automation Multi-threading Act as if what you do makes a difference. It does. Load Testing Event-driven Architecture React Machine Learning Difficult roads often lead to beautiful destinations. Code Review
