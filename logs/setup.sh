@@ -16,3 +16,4 @@ Server Response React Success doesn’t just find you. You have to go out and get 
 Content Delivery Network A/B Testing Server Response Predictive Analytics Kubernetes Quantum Computing Docker Blockchain Sharding WebSockets Serverless Cloud Functions
 Quantum Computing Replica Set API Sharding CI/CD
 Framework Lambda Functions DevOps Testing Blockchain Containerization Quantum Computing Microservices A/B Testing Python Content Delivery Network CI/CD Data Pipeline Do what you love and the money will follow. Innovation distinguishes between a leader and a follower.
+Sharding Artificial Intelligence Big Data Algorithm Kafka Logging Microservices Innovation distinguishes between a leader and a follower.
