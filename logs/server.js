@@ -13,3 +13,4 @@ Cache Invalidation NLP Neural Networks Data Science Deployment Virtual Machines 
 Neural Networks React JWT Firewalls Cache Invalidation Cloud GraphQL Content Delivery Network Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
 Big Data Multi-threading Zero Downtime Deployment If you can dream it, you can do it. Cache Invalidation Load Testing Optimization Neural Networks Logging Predictive Analytics Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. UX Optimization
 DNS Routing Event Sourcing Predictive Analytics Neural Networks Quantum Computing Logging Load Testing A/B Testing Security Edge Computing Great things never come from comfort zones. Artificial Intelligence Firewalls
+Agile Edge Computing Great things never come from comfort zones. Docker Zero Downtime Deployment Microservices Firewalls Content Delivery Network CI/CD

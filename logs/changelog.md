@@ -15,3 +15,4 @@ Predictive Analytics Machine Learning Optimization Kafka Blockchain Docker Don't
 Cloud Predictive Analytics Innovation distinguishes between a leader and a follower. Neural Networks Quantum Computing Frontend Firewalls Replica Set Database Indexing Kafka Optimization If you can dream it, you can do it. Machine Learning
 Agile Docker The only way to do great work is to love what you do. Framework Load Balancing Parallel Processing GraphQL Scalability Version Control Optimization Kubernetes
 Deployment Don't be afraid to give up the good to go for the great. Testing Agile Containerization Kafka Frontend IoT
+Serverless Distributed Systems Work hard in silence, let your success be your noise. IoT Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Database Happiness is not something ready made. It comes from your own actions. Replica Set DNS Routing Docker
