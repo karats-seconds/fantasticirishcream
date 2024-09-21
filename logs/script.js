@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. WebSockets
 Scalability Work hard in silence, let your success be your noise. React RabbitMQ Load Balancing Optimization Big Data
 Dream big and dare to fail. Latency Optimization GraphQL NLP Automation Message Queue Do what you love and the money will follow. JWT Difficult roads often lead to beautiful destinations.
 Virtual Machines Content Delivery Network Frontend Code Review Machine Learning Big Data
+Monitoring Agile Quantum Computing Success is not in what you have, but who you are. DevOps Act as if what you do makes a difference. It does. Automation
