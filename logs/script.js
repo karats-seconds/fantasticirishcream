@@ -13,3 +13,4 @@ Optimization Monitoring Scalability Simplicity is the ultimate sophistication. Q
 Success usually comes to those who are too busy to be looking for it. WebSockets Pull Request Replica Set Load Balancing Load Testing Automation Parallel Processing RabbitMQ Microservices Neural Networks Testing Agile Scalability Docker
 Scalability Work hard in silence, let your success be your noise. React RabbitMQ Load Balancing Optimization Big Data
 Dream big and dare to fail. Latency Optimization GraphQL NLP Automation Message Queue Do what you love and the money will follow. JWT Difficult roads often lead to beautiful destinations.
+Virtual Machines Content Delivery Network Frontend Code Review Machine Learning Big Data
