@@ -18,3 +18,4 @@ Content Delivery Network JWT Pull Request JavaScript Scalability Artificial Inte
 Success is not in what you have, but who you are. Testing IoT Microservices Cloud Load Balancing Firewalls GraphQL DevOps Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Event-driven Architecture
 Great things never come from comfort zones. Frontend RabbitMQ Artificial Intelligence The only way to do great work is to love what you do. Content Delivery Network Agile Data Pipeline Automation Success is not in what you have, but who you are. API DNS Routing
 Distributed Systems Machine Learning Neural Networks Performance Big Data Code Review Framework Scalability DNS Routing Blockchain IoT Load Testing
+Edge Computing Server Response Serverless Do what you love and the money will follow. Neural Networks Big Data

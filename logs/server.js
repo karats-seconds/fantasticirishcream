@@ -11,3 +11,4 @@ Kubernetes Cloud Functions Security React Do what you love and the money will fo
 Predictive Analytics Security Framework WebSockets Content Delivery Network Lambda Functions Edge Computing
 Cache Invalidation NLP Neural Networks Data Science Deployment Virtual Machines Version Control If you can dream it, you can do it. Code Review Automation Container Orchestration Agile Database
 Neural Networks React JWT Firewalls Cache Invalidation Cloud GraphQL Content Delivery Network Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
+Big Data Multi-threading Zero Downtime Deployment If you can dream it, you can do it. Cache Invalidation Load Testing Optimization Neural Networks Logging Predictive Analytics Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. UX Optimization
