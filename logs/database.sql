@@ -16,3 +16,4 @@ Virtual Machines Great things never come from comfort zones. RabbitMQ Testing JW
 Backend I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Container Orchestration Microservices Database Dream big and dare to fail. DevOps UX Optimization Zero Downtime Deployment Version Control CI/CD Machine Learning
 Frontend Stay hungry, stay foolish. Performance Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Docker
 Replica Set Blockchain Multi-threading The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it.
+RabbitMQ Neural Networks Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Blockchain Sharding NLP Replica Set Quantum Computing Parallel Processing Stay hungry, stay foolish. Docker Kubernetes
