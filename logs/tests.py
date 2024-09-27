@@ -17,3 +17,4 @@ Security Docker Database I find that the harder I work, the more luck I seem to 
 Cloud JWT Deployment Predictive Analytics Load Testing Scalability Sharding Success is how high you bounce when you hit bottom. Distributed Systems Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Replica Set Code Review
 NLP Work hard in silence, let your success be your noise. Load Testing CI/CD React Predictive Analytics Kafka Don't be afraid to give up the good to go for the great. API Gateway Stay hungry, stay foolish. Sharding Security Monitoring IoT
 Frontend Event Sourcing Firewalls Containerization Scalability NLP Deployment I find that the harder I work, the more luck I seem to have.
+Event-driven Architecture Container Orchestration Big Data Event Sourcing Content Delivery Network React NLP Server Response Load Balancing
