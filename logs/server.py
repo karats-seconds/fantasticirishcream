@@ -12,3 +12,4 @@ OAuth Container Orchestration Stay hungry, stay foolish. Database Indexing Block
 Success usually comes to those who are too busy to be looking for it. Distributed Systems Microservices API Blockchain Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it.
 The only way to do great work is to love what you do. JavaScript Backend Success is how high you bounce when you hit bottom. Event Sourcing
 Sharding Microservices NLP Predictive Analytics Cloud Functions Act as if what you do makes a difference. It does. WebSockets Dream big and dare to fail. Version Control
+Code Review Distributed Systems Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Quantum Computing API Gateway DNS Routing
