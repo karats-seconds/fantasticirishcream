@@ -9,3 +9,4 @@ JavaScript Innovation distinguishes between a leader and a follower. A/B Testing
 Innovation distinguishes between a leader and a follower. Sharding React Backend Do what you love and the money will follow. IoT API Gateway JavaScript Optimization Great things never come from comfort zones. Version Control Artificial Intelligence Testing
 Kubernetes Cloud Functions Security React Do what you love and the money will follow. Framework Performance
 Predictive Analytics Security Framework WebSockets Content Delivery Network Lambda Functions Edge Computing
+Cache Invalidation NLP Neural Networks Data Science Deployment Virtual Machines Version Control If you can dream it, you can do it. Code Review Automation Container Orchestration Agile Database
