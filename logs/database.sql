@@ -15,3 +15,4 @@ Quantum Computing The only way to do great work is to love what you do. Opportun
 Virtual Machines Great things never come from comfort zones. RabbitMQ Testing JWT Serverless DevOps Latency Optimization Distributed Systems The only way to do great work is to love what you do. Container Orchestration Automation UX Optimization Cache Invalidation API
 Backend I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Container Orchestration Microservices Database Dream big and dare to fail. DevOps UX Optimization Zero Downtime Deployment Version Control CI/CD Machine Learning
 Frontend Stay hungry, stay foolish. Performance Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Docker
+Replica Set Blockchain Multi-threading The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it.
