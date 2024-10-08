@@ -19,3 +19,4 @@ Frontend Machine Learning Neural Networks Content Delivery Network Kafka Automat
 Virtual Machines JWT Backend Algorithm Zero Downtime Deployment Data Pipeline
 Message Queue Database Machine Learning Replica Set OAuth Edge Computing Data Pipeline API Do what you love and the money will follow. DNS Routing
 Happiness is not something ready made. It comes from your own actions. Neural Networks Logging Act as if what you do makes a difference. It does. Replica Set RabbitMQ Message Queue Kubernetes IoT Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Content Delivery Network
+Scalability Cache Invalidation Data Pipeline Optimization Frontend Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Message Queue I find that the harder I work, the more luck I seem to have. Microservices React Database
