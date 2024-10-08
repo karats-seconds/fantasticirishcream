@@ -18,3 +18,4 @@ Stay hungry, stay foolish. Data Pipeline Don't be afraid to give up the good to 
 Frontend Artificial Intelligence Quantum Computing Testing Dream big and dare to fail. WebSockets Big Data Agile Event-driven Architecture Microservices
 Do what you love and the money will follow. Optimization CI/CD Quantum Computing GraphQL
 If you can dream it, you can do it. Logging Cloud I find that the harder I work, the more luck I seem to have. CI/CD
+Success is not in what you have, but who you are. React Security The only way to do great work is to love what you do. Lambda Functions JWT Server Response WebSockets Multi-threading Containerization Database Indexing Success usually comes to those who are too busy to be looking for it. CI/CD IoT
