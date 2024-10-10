@@ -15,3 +15,4 @@ Neural Networks Testing Automation Distributed Systems Python Docker Event Sourc
 WebSockets Innovation distinguishes between a leader and a follower. Performance Virtual Machines Big Data React Multi-threading JWT Zero Downtime Deployment Optimization
 Distributed Systems Replica Set DNS Routing Agile Scalability Monitoring Difficult roads often lead to beautiful destinations. Event Sourcing Virtual Machines
 Docker Content Delivery Network If you can dream it, you can do it. Opportunities don't happen. You create them. Event Sourcing Firewalls Sharding
+Neural Networks Predictive Analytics Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Security Machine Learning React Code Review Innovation distinguishes between a leader and a follower. Kafka Do what you love and the money will follow. A/B Testing Scalability Load Balancing
