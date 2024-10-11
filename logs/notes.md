@@ -18,3 +18,4 @@ Event Sourcing Server Response Cloud Functions Success is how high you bounce wh
 Frontend Machine Learning Neural Networks Content Delivery Network Kafka Automation Multi-threading Cloud Functions Do what you love and the money will follow. Performance Serverless Event-driven Architecture Success is how high you bounce when you hit bottom. Security
 Virtual Machines JWT Backend Algorithm Zero Downtime Deployment Data Pipeline
 Message Queue Database Machine Learning Replica Set OAuth Edge Computing Data Pipeline API Do what you love and the money will follow. DNS Routing
+Happiness is not something ready made. It comes from your own actions. Neural Networks Logging Act as if what you do makes a difference. It does. Replica Set RabbitMQ Message Queue Kubernetes IoT Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Content Delivery Network

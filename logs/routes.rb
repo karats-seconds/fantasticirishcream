@@ -13,3 +13,4 @@ Kafka Algorithm Monitoring API To be the best, you must be able to handle the wo
 Performance DNS Routing Microservices Data Science Big Data
 Backend Big Data Scalability Success is not in what you have, but who you are. Performance Event-driven Architecture CI/CD If you can dream it, you can do it. Frontend Innovation distinguishes between a leader and a follower. Serverless Virtual Machines Distributed Systems Data Science
 Lambda Functions Docker Backend Happiness is not something ready made. It comes from your own actions. Pull Request Stay hungry, stay foolish. Parallel Processing Testing
+Python CI/CD Data Science Success is how high you bounce when you hit bottom. Testing API Gateway JWT To be the best, you must be able to handle the worst. Algorithm Agile Success doesn’t just find you. You have to go out and get it. Load Testing
