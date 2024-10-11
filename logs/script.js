@@ -11,3 +11,4 @@ Predictive Analytics Microservices Simplicity is the ultimate sophistication. Lo
 Python Framework Kubernetes Sharding Quantum Computing Edge Computing Great things never come from comfort zones. Frontend Microservices Predictive Analytics Logging
 Optimization Monitoring Scalability Simplicity is the ultimate sophistication. Quantum Computing Frontend Algorithm I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Big Data Success is not in what you have, but who you are. Code Review Parallel Processing Microservices Python
 Success usually comes to those who are too busy to be looking for it. WebSockets Pull Request Replica Set Load Balancing Load Testing Automation Parallel Processing RabbitMQ Microservices Neural Networks Testing Agile Scalability Docker
+Scalability Work hard in silence, let your success be your noise. React RabbitMQ Load Balancing Optimization Big Data
