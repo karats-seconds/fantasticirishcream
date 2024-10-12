@@ -14,3 +14,4 @@ Happiness is not something ready made. It comes from your own actions. Success i
 Edge Computing Stay hungry, stay foolish. Neural Networks Database JWT Success doesn’t just find you. You have to go out and get it. GraphQL Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise.
 Server Response React Success doesn’t just find you. You have to go out and get it. Microservices Virtual Machines Frontend Version Control Algorithm DNS Routing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do.
 Content Delivery Network A/B Testing Server Response Predictive Analytics Kubernetes Quantum Computing Docker Blockchain Sharding WebSockets Serverless Cloud Functions
+Quantum Computing Replica Set API Sharding CI/CD

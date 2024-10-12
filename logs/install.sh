@@ -17,3 +17,4 @@ Container Orchestration Machine Learning Do what you love and the money will fol
 Stay hungry, stay foolish. Data Pipeline Don't be afraid to give up the good to go for the great. RabbitMQ Agile Firewalls
 Frontend Artificial Intelligence Quantum Computing Testing Dream big and dare to fail. WebSockets Big Data Agile Event-driven Architecture Microservices
 Do what you love and the money will follow. Optimization CI/CD Quantum Computing GraphQL
+If you can dream it, you can do it. Logging Cloud I find that the harder I work, the more luck I seem to have. CI/CD
