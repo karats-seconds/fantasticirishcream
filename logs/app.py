@@ -10,3 +10,4 @@ Replica Set Monitoring API Gateway DNS Routing Success doesn’t just find you. Yo
 Monitoring GraphQL To be the best, you must be able to handle the worst. Testing Parallel Processing Great things never come from comfort zones. Cloud Functions Container Orchestration Logging Cloud Happiness is not something ready made. It comes from your own actions. Performance Data Science
 To be the best, you must be able to handle the worst. Sharding Database Indexing Kubernetes Replica Set Event Sourcing Security
 Docker Message Queue NLP IoT Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Success is not in what you have, but who you are.
+Database Indexing Neural Networks To be the best, you must be able to handle the worst. Code Review Data Science Multi-threading Agile Container Orchestration API
