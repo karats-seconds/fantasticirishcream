@@ -10,3 +10,4 @@ Container Orchestration Lambda Functions Message Queue Data Pipeline I find that
 A/B Testing Server Response Containerization DevOps Neural Networks Distributed Systems Code Review Version Control Docker CI/CD Success doesn’t just find you. You have to go out and get it.
 OAuth Container Orchestration Stay hungry, stay foolish. Database Indexing Blockchain To be the best, you must be able to handle the worst. Content Delivery Network Kubernetes Distributed Systems
 Success usually comes to those who are too busy to be looking for it. Distributed Systems Microservices API Blockchain Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it.
+The only way to do great work is to love what you do. JavaScript Backend Success is how high you bounce when you hit bottom. Event Sourcing
