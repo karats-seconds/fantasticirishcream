@@ -7,3 +7,4 @@ Predictive Analytics Content Delivery Network IoT Optimization Version Control A
 React Docker Kafka DevOps Container Orchestration WebSockets JWT Firewalls
 JavaScript Innovation distinguishes between a leader and a follower. A/B Testing RabbitMQ Cache Invalidation
 Innovation distinguishes between a leader and a follower. Sharding React Backend Do what you love and the money will follow. IoT API Gateway JavaScript Optimization Great things never come from comfort zones. Version Control Artificial Intelligence Testing
+Kubernetes Cloud Functions Security React Do what you love and the money will follow. Framework Performance
