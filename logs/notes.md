@@ -16,3 +16,4 @@ Database Cloud Functions WebSockets Opportunities don't happen. You create them.
 JWT Great things never come from comfort zones. Containerization WebSockets Big Data Scalability Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. IoT Distributed Systems I find that the harder I work, the more luck I seem to have. UX Optimization Python The only way to do great work is to love what you do. Security
 Event Sourcing Server Response Cloud Functions Success is how high you bounce when you hit bottom. Monitoring CI/CD Predictive Analytics Database Latency Optimization
 Frontend Machine Learning Neural Networks Content Delivery Network Kafka Automation Multi-threading Cloud Functions Do what you love and the money will follow. Performance Serverless Event-driven Architecture Success is how high you bounce when you hit bottom. Security
+Virtual Machines JWT Backend Algorithm Zero Downtime Deployment Data Pipeline
