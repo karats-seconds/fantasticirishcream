@@ -15,3 +15,4 @@ Edge Computing Data Pipeline Distributed Systems Pull Request Agile Firewalls Bl
 Replica Set RabbitMQ DevOps If you can dream it, you can do it. Predictive Analytics Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Latency Optimization Stay hungry, stay foolish. Code Review
 Container Orchestration Machine Learning Do what you love and the money will follow. Frontend Event-driven Architecture GraphQL Firewalls Load Testing Happiness is not something ready made. It comes from your own actions. Framework
 Stay hungry, stay foolish. Data Pipeline Don't be afraid to give up the good to go for the great. RabbitMQ Agile Firewalls
+Frontend Artificial Intelligence Quantum Computing Testing Dream big and dare to fail. WebSockets Big Data Agile Event-driven Architecture Microservices
