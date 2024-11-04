@@ -14,3 +14,4 @@ Difficult roads often lead to beautiful destinations. UX Optimization Data Pipel
 Parallel Processing Database Indexing Deployment RabbitMQ Automation The only way to do great work is to love what you do. Docker Work hard in silence, let your success be your noise. Python DNS Routing If you can dream it, you can do it.
 Database Cloud Functions WebSockets Opportunities don't happen. You create them. Data Science
 JWT Great things never come from comfort zones. Containerization WebSockets Big Data Scalability Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. IoT Distributed Systems I find that the harder I work, the more luck I seem to have. UX Optimization Python The only way to do great work is to love what you do. Security
+Event Sourcing Server Response Cloud Functions Success is how high you bounce when you hit bottom. Monitoring CI/CD Predictive Analytics Database Latency Optimization
