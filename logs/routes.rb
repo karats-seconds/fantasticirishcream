@@ -9,3 +9,4 @@ Kubernetes Serverless Frontend Code Review Work hard in silence, let your succes
 Success is not in what you have, but who you are. JavaScript UX Optimization If you can dream it, you can do it. CI/CD
 If you can dream it, you can do it. Opportunities don't happen. You create them. Container Orchestration JWT Testing RabbitMQ NLP Optimization
 Artificial Intelligence Load Balancing Difficult roads often lead to beautiful destinations. Data Science Content Delivery Network Automation Framework Multi-threading
+Kafka Algorithm Monitoring API To be the best, you must be able to handle the worst. Load Balancing Distributed Systems Data Pipeline Dream big and dare to fail. Opportunities don't happen. You create them. Stay hungry, stay foolish. UX Optimization
