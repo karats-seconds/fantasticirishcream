@@ -12,3 +12,4 @@ Data Science Version Control Python Zero Downtime Deployment Backend Cloud Funct
 Opportunities don't happen. You create them. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Cache Invalidation API UX Optimization Containerization NLP Python WebSockets DevOps Code Review Microservices Serverless
 Difficult roads often lead to beautiful destinations. UX Optimization Data Pipeline Data Science Kubernetes API Gateway Load Testing Zero Downtime Deployment Replica Set Code Review Event-driven Architecture Do what you love and the money will follow. Cloud Database
 Parallel Processing Database Indexing Deployment RabbitMQ Automation The only way to do great work is to love what you do. Docker Work hard in silence, let your success be your noise. Python DNS Routing If you can dream it, you can do it.
+Database Cloud Functions WebSockets Opportunities don't happen. You create them. Data Science
