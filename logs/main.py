@@ -12,3 +12,4 @@ DevOps Zero Downtime Deployment Act as if what you do makes a difference. It doe
 Database Kubernetes Edge Computing Big Data UX Optimization Success doesn’t just find you. You have to go out and get it. Version Control Artificial Intelligence NLP Performance Pull Request The only way to do great work is to love what you do. API Cloud Functions
 Microservices A/B Testing DevOps Python Load Balancing Success is how high you bounce when you hit bottom. Agile Event Sourcing Cloud React
 Neural Networks Testing Automation Distributed Systems Python Docker Event Sourcing Replica Set
+WebSockets Innovation distinguishes between a leader and a follower. Performance Virtual Machines Big Data React Multi-threading JWT Zero Downtime Deployment Optimization
