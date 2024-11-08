@@ -8,3 +8,4 @@ If you can dream it, you can do it. Python Success is how high you bounce when y
 API Machine Learning Python Multi-threading Innovation distinguishes between a leader and a follower. Cloud Functions Success usually comes to those who are too busy to be looking for it. WebSockets JWT OAuth
 Container Orchestration Lambda Functions Message Queue Data Pipeline I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. UX Optimization Performance Cache Invalidation Backend Neural Networks If you can dream it, you can do it.
 A/B Testing Server Response Containerization DevOps Neural Networks Distributed Systems Code Review Version Control Docker CI/CD Success doesn’t just find you. You have to go out and get it.
+OAuth Container Orchestration Stay hungry, stay foolish. Database Indexing Blockchain To be the best, you must be able to handle the worst. Content Delivery Network Kubernetes Distributed Systems
