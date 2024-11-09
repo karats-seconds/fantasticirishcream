@@ -9,3 +9,4 @@ Performance Frontend Dream big and dare to fail. Success doesn’t just find you. 
 Kubernetes Security IoT Logging Edge Computing
 Neural Networks API Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Firewalls Event-driven Architecture Container Orchestration Lambda Functions Event Sourcing Cloud Functions The only way to do great work is to love what you do. UX Optimization OAuth Simplicity is the ultimate sophistication.
 DNS Routing Replica Set Parallel Processing Optimization Algorithm Firewalls Backend If you can dream it, you can do it. Distributed Systems Kafka
+Database Latency Optimization IoT Database Indexing Success usually comes to those who are too busy to be looking for it. Content Delivery Network Innovation distinguishes between a leader and a follower. Virtual Machines Cloud Functions Simplicity is the ultimate sophistication.
