@@ -11,3 +11,4 @@ Parallel Processing Don't be afraid to give up the good to go for the great. Loa
 DevOps Zero Downtime Deployment Act as if what you do makes a difference. It does. Scalability Multi-threading Big Data Latency Optimization Happiness is not something ready made. It comes from your own actions. Microservices Database Indexing Machine Learning Neural Networks
 Database Kubernetes Edge Computing Big Data UX Optimization Success doesn’t just find you. You have to go out and get it. Version Control Artificial Intelligence NLP Performance Pull Request The only way to do great work is to love what you do. API Cloud Functions
 Microservices A/B Testing DevOps Python Load Balancing Success is how high you bounce when you hit bottom. Agile Event Sourcing Cloud React
+Neural Networks Testing Automation Distributed Systems Python Docker Event Sourcing Replica Set
