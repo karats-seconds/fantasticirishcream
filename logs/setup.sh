@@ -11,3 +11,4 @@ Containerization Database Indexing Multi-threading Frontend Load Balancing Backe
 Distributed Systems Success doesn’t just find you. You have to go out and get it. API Gateway Microservices Monitoring Database
 Cloud Functions Sharding IoT Database GraphQL Agile Cache Invalidation CI/CD Serverless
 Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. GraphQL Code Review NLP Database Monitoring Load Testing Security Do what you love and the money will follow. Microservices Event Sourcing
+Edge Computing Stay hungry, stay foolish. Neural Networks Database JWT Success doesn’t just find you. You have to go out and get it. GraphQL Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise.
