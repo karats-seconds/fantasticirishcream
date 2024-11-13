@@ -8,3 +8,4 @@ Python Virtual Machines Edge Computing Predictive Analytics Success doesn’t just
 API Gateway Event Sourcing Serverless Happiness is not something ready made. It comes from your own actions. Algorithm Distributed Systems React
 GraphQL Predictive Analytics Load Balancing Logging Server Response Stay hungry, stay foolish. Machine Learning Serverless Big Data Great things never come from comfort zones. Content Delivery Network A/B Testing Do what you love and the money will follow. Python WebSockets
 Cloud Functions Cache Invalidation Edge Computing RabbitMQ Security DNS Routing API Python Multi-threading React Version Control Great things never come from comfort zones. Opportunities don't happen. You create them.
+WebSockets Artificial Intelligence Cache Invalidation Monitoring Deployment Backend Do what you love and the money will follow. Python Security Distributed Systems Opportunities don't happen. You create them. Database Indexing Cloud
