@@ -10,3 +10,4 @@ API Gateway API Quantum Computing Opportunities don't happen. You create them. L
 Containerization Database Indexing Multi-threading Frontend Load Balancing Backend Difficult roads often lead to beautiful destinations. Logging
 Distributed Systems Success doesn’t just find you. You have to go out and get it. API Gateway Microservices Monitoring Database
 Cloud Functions Sharding IoT Database GraphQL Agile Cache Invalidation CI/CD Serverless
+Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. GraphQL Code Review NLP Database Monitoring Load Testing Security Do what you love and the money will follow. Microservices Event Sourcing
