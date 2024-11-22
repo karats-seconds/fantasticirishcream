@@ -10,3 +10,4 @@ NLP Simplicity is the ultimate sophistication. Cloud Functions Don't be afraid t
 Data Science API Gateway JavaScript Opportunities don't happen. You create them. Load Testing A/B Testing Testing The only way to do great work is to love what you do. Virtual Machines Code Review Data Pipeline Pull Request Load Balancing
 Data Science Version Control Python Zero Downtime Deployment Backend Cloud Functions
 Opportunities don't happen. You create them. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Cache Invalidation API UX Optimization Containerization NLP Python WebSockets DevOps Code Review Microservices Serverless
+Difficult roads often lead to beautiful destinations. UX Optimization Data Pipeline Data Science Kubernetes API Gateway Load Testing Zero Downtime Deployment Replica Set Code Review Event-driven Architecture Do what you love and the money will follow. Cloud Database
