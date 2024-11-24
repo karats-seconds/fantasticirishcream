@@ -5,3 +5,4 @@ NLP Framework Latency Optimization RabbitMQ OAuth Success is not in what you hav
 Monitoring Load Balancing Success is not in what you have, but who you are. Predictive Analytics Machine Learning Python Automation API Gateway Container Orchestration Database Indexing Replica Set Pull Request GraphQL WebSockets Cloud
 Predictive Analytics Content Delivery Network IoT Optimization Version Control Act as if what you do makes a difference. It does. Containerization Firewalls Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Docker Kubernetes Artificial Intelligence I find that the harder I work, the more luck I seem to have. Distributed Systems
 React Docker Kafka DevOps Container Orchestration WebSockets JWT Firewalls
+JavaScript Innovation distinguishes between a leader and a follower. A/B Testing RabbitMQ Cache Invalidation
