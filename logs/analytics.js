@@ -11,3 +11,4 @@ Data Pipeline Containerization Neural Networks OAuth I find that the harder I wo
 Testing Virtual Machines Security Performance A/B Testing Lambda Functions Load Testing Dream big and dare to fail. Cache Invalidation Frontend
 Multi-threading Innovation distinguishes between a leader and a follower. Data Science JavaScript React Artificial Intelligence Replica Set Database Indexing Parallel Processing RabbitMQ Lambda Functions Distributed Systems
 Server Response Kafka Event-driven Architecture WebSockets Database Success is how high you bounce when you hit bottom. Message Queue Artificial Intelligence Data Pipeline
+API Kubernetes Success usually comes to those who are too busy to be looking for it. Frontend Quantum Computing Data Science Agile Blockchain UX Optimization To be the best, you must be able to handle the worst. Security Edge Computing Happiness is not something ready made. It comes from your own actions.
