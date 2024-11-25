@@ -10,3 +10,4 @@ Container Orchestration GraphQL The only way to do great work is to love what yo
 Data Pipeline Containerization Neural Networks OAuth I find that the harder I work, the more luck I seem to have. Version Control
 Testing Virtual Machines Security Performance A/B Testing Lambda Functions Load Testing Dream big and dare to fail. Cache Invalidation Frontend
 Multi-threading Innovation distinguishes between a leader and a follower. Data Science JavaScript React Artificial Intelligence Replica Set Database Indexing Parallel Processing RabbitMQ Lambda Functions Distributed Systems
+Server Response Kafka Event-driven Architecture WebSockets Database Success is how high you bounce when you hit bottom. Message Queue Artificial Intelligence Data Pipeline
