@@ -9,3 +9,4 @@ DevOps Don't be afraid to give up the good to go for the great. The only way to 
 API Gateway API Quantum Computing Opportunities don't happen. You create them. Load Balancing
 Containerization Database Indexing Multi-threading Frontend Load Balancing Backend Difficult roads often lead to beautiful destinations. Logging
 Distributed Systems Success doesn’t just find you. You have to go out and get it. API Gateway Microservices Monitoring Database
+Cloud Functions Sharding IoT Database GraphQL Agile Cache Invalidation CI/CD Serverless
