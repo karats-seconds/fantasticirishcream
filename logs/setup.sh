@@ -8,3 +8,4 @@ Kubernetes API Gateway Machine Learning Version Control Agile I find that the ha
 DevOps Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Backend Docker API Gateway Framework
 API Gateway API Quantum Computing Opportunities don't happen. You create them. Load Balancing
 Containerization Database Indexing Multi-threading Frontend Load Balancing Backend Difficult roads often lead to beautiful destinations. Logging
+Distributed Systems Success doesn’t just find you. You have to go out and get it. API Gateway Microservices Monitoring Database
