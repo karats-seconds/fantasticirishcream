@@ -12,3 +12,4 @@ Kubernetes Message Queue Code Review Testing WebSockets
 Difficult roads often lead to beautiful destinations. Python Performance Pull Request Multi-threading Kafka UX Optimization Virtual Machines
 Cache Invalidation Act as if what you do makes a difference. It does. Cloud Functions Big Data Simplicity is the ultimate sophistication. RabbitMQ Docker Backend GraphQL API Artificial Intelligence Distributed Systems Virtual Machines Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations.
 Replica Set IoT Zero Downtime Deployment Python NLP Great things never come from comfort zones. Performance Quantum Computing
+Act as if what you do makes a difference. It does. Docker The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Quantum Computing GraphQL Testing NLP Do what you love and the money will follow. Cache Invalidation Algorithm
