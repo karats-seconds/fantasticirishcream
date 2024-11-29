@@ -11,3 +11,4 @@ Kafka Microservices Blockchain Cloud Opportunities don't happen. You create them
 To be the best, you must be able to handle the worst. Sharding Event Sourcing Distributed Systems CI/CD DNS Routing Database Indexing Python Work hard in silence, let your success be your noise.
 JavaScript Success is not in what you have, but who you are. Sharding Containerization Predictive Analytics Database Indexing WebSockets Backend UX Optimization Agile API Gateway
 DNS Routing Parallel Processing Edge Computing Automation Optimization Security Performance React Success is not in what you have, but who you are. Predictive Analytics NLP
+Edge Computing Data Pipeline Distributed Systems Pull Request Agile Firewalls Blockchain Performance JavaScript Success is how high you bounce when you hit bottom. Microservices Message Queue Event Sourcing
