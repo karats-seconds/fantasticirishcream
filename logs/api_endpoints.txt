@@ -10,3 +10,4 @@ Zero Downtime Deployment Monitoring Firewalls Sharding Distributed Systems Happi
 I find that the harder I work, the more luck I seem to have. React Firewalls Code Review Performance Event Sourcing Neural Networks Great things never come from comfort zones. Scalability Container Orchestration
 Kubernetes Message Queue Code Review Testing WebSockets
 Difficult roads often lead to beautiful destinations. Python Performance Pull Request Multi-threading Kafka UX Optimization Virtual Machines
+Cache Invalidation Act as if what you do makes a difference. It does. Cloud Functions Big Data Simplicity is the ultimate sophistication. RabbitMQ Docker Backend GraphQL API Artificial Intelligence Distributed Systems Virtual Machines Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations.
