@@ -7,3 +7,4 @@ JWT Cloud Functions Machine Learning Blockchain UX Optimization Load Balancing
 Kubernetes API Gateway Machine Learning Version Control Agile I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing
 DevOps Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Backend Docker API Gateway Framework
 API Gateway API Quantum Computing Opportunities don't happen. You create them. Load Balancing
+Containerization Database Indexing Multi-threading Frontend Load Balancing Backend Difficult roads often lead to beautiful destinations. Logging
