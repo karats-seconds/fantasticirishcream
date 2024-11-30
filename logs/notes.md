@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Replica Set Automation Con
 Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Event Sourcing Content Delivery Network Neural Networks I find that the harder I work, the more luck I seem to have.
 NLP Simplicity is the ultimate sophistication. Cloud Functions Don't be afraid to give up the good to go for the great. Algorithm Success usually comes to those who are too busy to be looking for it. Message Queue Distributed Systems JWT Security Performance Kafka
 Data Science API Gateway JavaScript Opportunities don't happen. You create them. Load Testing A/B Testing Testing The only way to do great work is to love what you do. Virtual Machines Code Review Data Pipeline Pull Request Load Balancing
+Data Science Version Control Python Zero Downtime Deployment Backend Cloud Functions
