@@ -7,3 +7,4 @@ Big Data Great things never come from comfort zones. Latency Optimization Replic
 Success usually comes to those who are too busy to be looking for it. Backend RabbitMQ API Happiness is not something ready made. It comes from your own actions. Cloud If you can dream it, you can do it. Database Indexing A/B Testing Latency Optimization DNS Routing Zero Downtime Deployment
 Kubernetes Serverless Frontend Code Review Work hard in silence, let your success be your noise. Distributed Systems Python If you can dream it, you can do it. CI/CD Machine Learning OAuth
 Success is not in what you have, but who you are. JavaScript UX Optimization If you can dream it, you can do it. CI/CD
+If you can dream it, you can do it. Opportunities don't happen. You create them. Container Orchestration JWT Testing RabbitMQ NLP Optimization
