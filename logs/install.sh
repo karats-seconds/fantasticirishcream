@@ -10,3 +10,4 @@ DevOps Event-driven Architecture Zero Downtime Deployment Don't be afraid to giv
 Kafka Microservices Blockchain Cloud Opportunities don't happen. You create them. A/B Testing Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. NLP Latency Optimization Happiness is not something ready made. It comes from your own actions. Cloud Functions
 To be the best, you must be able to handle the worst. Sharding Event Sourcing Distributed Systems CI/CD DNS Routing Database Indexing Python Work hard in silence, let your success be your noise.
 JavaScript Success is not in what you have, but who you are. Sharding Containerization Predictive Analytics Database Indexing WebSockets Backend UX Optimization Agile API Gateway
+DNS Routing Parallel Processing Edge Computing Automation Optimization Security Performance React Success is not in what you have, but who you are. Predictive Analytics NLP
