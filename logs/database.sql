@@ -6,3 +6,4 @@ Content Delivery Network UX Optimization Server Response Do what you love and th
 Automation Performance Dream big and dare to fail. Machine Learning Version Control
 Replica Set Sharding Serverless Database Indexing JWT Algorithm Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. JavaScript CI/CD Pull Request Dream big and dare to fail.
 Performance Frontend Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Quantum Computing Do what you love and the money will follow. Big Data A/B Testing The only way to do great work is to love what you do. Parallel Processing Virtual Machines Code Review Algorithm
+Kubernetes Security IoT Logging Edge Computing

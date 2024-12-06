@@ -7,3 +7,4 @@ Latency Optimization Success is how high you bounce when you hit bottom. Neural 
 Frontend Event-driven Architecture I find that the harder I work, the more luck I seem to have. Parallel Processing Cache Invalidation Big Data UX Optimization Automation GraphQL
 NLP Docker Testing Event-driven Architecture Monitoring Frontend JavaScript Multi-threading Zero Downtime Deployment Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Database Kafka
 JWT Code Review Work hard in silence, let your success be your noise. Blockchain Security OAuth Agile Lambda Functions Cloud Scalability API Gateway Python
+Replica Set Machine Learning Dream big and dare to fail. RabbitMQ Success usually comes to those who are too busy to be looking for it. Lambda Functions Code Review IoT Database Cloud Zero Downtime Deployment Pull Request Neural Networks NLP Containerization
