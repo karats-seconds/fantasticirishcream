@@ -7,3 +7,4 @@ Latency Optimization Lambda Functions Simplicity is the ultimate sophistication.
 Dream big and dare to fail. Success is not in what you have, but who you are. DevOps Zero Downtime Deployment Blockchain Container Orchestration Data Science Message Queue Database
 Microservices Success is how high you bounce when you hit bottom. DNS Routing The only way to do great work is to love what you do. Logging Load Testing Act as if what you do makes a difference. It does. Algorithm
 Container Orchestration GraphQL The only way to do great work is to love what you do. Latency Optimization Code Review Happiness is not something ready made. It comes from your own actions. Containerization Backend
+Data Pipeline Containerization Neural Networks OAuth I find that the harder I work, the more luck I seem to have. Version Control
