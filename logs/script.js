@@ -4,3 +4,4 @@ IoT OAuth Pull Request Serverless Success usually comes to those who are too bus
 Firewalls CI/CD Optimization Distributed Systems Act as if what you do makes a difference. It does. Event-driven Architecture
 Predictive Analytics Innovation distinguishes between a leader and a follower. React Security IoT Load Testing Microservices Distributed Systems Optimization Docker NLP
 If you can dream it, you can do it. JWT Opportunities don't happen. You create them. Edge Computing Security Data Pipeline Success is not in what you have, but who you are. DevOps NLP I find that the harder I work, the more luck I seem to have. API RabbitMQ Python Virtual Machines
+Opportunities don't happen. You create them. OAuth Success doesn’t just find you. You have to go out and get it. Virtual Machines Server Response Success usually comes to those who are too busy to be looking for it. JavaScript Message Queue Data Pipeline Latency Optimization

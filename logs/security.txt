@@ -10,3 +10,4 @@ JWT Serverless Docker Testing Cloud Functions
 Blockchain A/B Testing Algorithm Lambda Functions Quantum Computing Containerization Great things never come from comfort zones. DNS Routing
 Version Control RabbitMQ DevOps Parallel Processing Framework Big Data Serverless
 OAuth The only way to do great work is to love what you do. Event Sourcing Artificial Intelligence Dream big and dare to fail. Simplicity is the ultimate sophistication. Parallel Processing To be the best, you must be able to handle the worst. Machine Learning WebSockets Success usually comes to those who are too busy to be looking for it. Virtual Machines
+Load Testing Quantum Computing JavaScript Artificial Intelligence Scalability Testing Great things never come from comfort zones. DevOps Logging Pull Request Load Balancing Backend Simplicity is the ultimate sophistication.
