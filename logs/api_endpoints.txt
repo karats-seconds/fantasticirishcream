@@ -9,3 +9,4 @@ Stay hungry, stay foolish. UX Optimization Performance RabbitMQ Virtual Machines
 Zero Downtime Deployment Monitoring Firewalls Sharding Distributed Systems Happiness is not something ready made. It comes from your own actions. Agile Algorithm Data Pipeline Latency Optimization Data Science Virtual Machines Load Testing
 I find that the harder I work, the more luck I seem to have. React Firewalls Code Review Performance Event Sourcing Neural Networks Great things never come from comfort zones. Scalability Container Orchestration
 Kubernetes Message Queue Code Review Testing WebSockets
+Difficult roads often lead to beautiful destinations. Python Performance Pull Request Multi-threading Kafka UX Optimization Virtual Machines
