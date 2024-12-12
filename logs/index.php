@@ -6,3 +6,4 @@ Firewalls Virtual Machines Distributed Systems Dream big and dare to fail. Kafka
 Latency Optimization Success is how high you bounce when you hit bottom. Neural Networks GraphQL React Parallel Processing Stay hungry, stay foolish. Monitoring Security Event Sourcing Data Pipeline DNS Routing
 Frontend Event-driven Architecture I find that the harder I work, the more luck I seem to have. Parallel Processing Cache Invalidation Big Data UX Optimization Automation GraphQL
 NLP Docker Testing Event-driven Architecture Monitoring Frontend JavaScript Multi-threading Zero Downtime Deployment Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Database Kafka
+JWT Code Review Work hard in silence, let your success be your noise. Blockchain Security OAuth Agile Lambda Functions Cloud Scalability API Gateway Python
