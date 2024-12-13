@@ -4,3 +4,4 @@ Artificial Intelligence Dream big and dare to fail. Distributed Systems Backend 
 Dream big and dare to fail. Server Response UX Optimization Cloud Functions WebSockets JWT Big Data Stay hungry, stay foolish. DNS Routing
 Content Delivery Network UX Optimization Server Response Do what you love and the money will follow. Message Queue Data Science Serverless Parallel Processing Python Containerization
 Automation Performance Dream big and dare to fail. Machine Learning Version Control
+Replica Set Sharding Serverless Database Indexing JWT Algorithm Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. JavaScript CI/CD Pull Request Dream big and dare to fail.
