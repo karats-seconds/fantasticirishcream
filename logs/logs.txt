@@ -4,3 +4,4 @@ Predictive Analytics Artificial Intelligence Neural Networks Data Science Versio
 React Cloud Functions Database Opportunities don't happen. You create them. Testing Neural Networks Success doesn’t just find you. You have to go out and get it. Microservices WebSockets API Gateway Success is not in what you have, but who you are. NLP Kafka Optimization Version Control
 Server Response JWT Work hard in silence, let your success be your noise. Testing Kubernetes IoT Distributed Systems
 Pull Request Edge Computing Kafka Data Pipeline Work hard in silence, let your success be your noise. Container Orchestration
+Python Virtual Machines Edge Computing Predictive Analytics Success doesn’t just find you. You have to go out and get it. Security
