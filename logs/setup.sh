@@ -5,3 +5,4 @@ Message Queue Event Sourcing Quantum Computing API Frontend Data Science Content
 Automation RabbitMQ OAuth Virtual Machines UX Optimization Dream big and dare to fail. JavaScript IoT Firewalls Cache Invalidation Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Load Testing
 JWT Cloud Functions Machine Learning Blockchain UX Optimization Load Balancing
 Kubernetes API Gateway Machine Learning Version Control Agile I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing
+DevOps Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Backend Docker API Gateway Framework
