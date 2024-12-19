@@ -4,3 +4,4 @@ Distributed Systems Database Quantum Computing Zero Downtime Deployment Data Sci
 Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Deployment RabbitMQ Version Control Cloud Functions Cache Invalidation
 Blockchain JWT Monitoring To be the best, you must be able to handle the worst. Backend Success is how high you bounce when you hit bottom. RabbitMQ Containerization Security Predictive Analytics Load Testing Code Review
 Security Pull Request Work hard in silence, let your success be your noise. Frontend Server Response Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Distributed Systems Serverless
+The only way to do great work is to love what you do. Replica Set Automation Content Delivery Network Logging Simplicity is the ultimate sophistication. DNS Routing
