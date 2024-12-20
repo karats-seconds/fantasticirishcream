@@ -4,3 +4,4 @@ Data Science Neural Networks The only way to do great work is to love what you d
 DevOps Monitoring Serverless Version Control Simplicity is the ultimate sophistication. Database Frontend Database Indexing GraphQL Event Sourcing Sharding CI/CD JWT Machine Learning Security
 Agile Success usually comes to those who are too busy to be looking for it. API Gateway UX Optimization GraphQL Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Pull Request Neural Networks Lambda Functions Container Orchestration NLP Algorithm WebSockets
 Load Testing Kubernetes CI/CD Version Control Parallel Processing DNS Routing
+Great things never come from comfort zones. CI/CD Server Response Happiness is not something ready made. It comes from your own actions. Distributed Systems Act as if what you do makes a difference. It does.
