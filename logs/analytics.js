@@ -5,3 +5,4 @@ Predictive Analytics Pull Request API Gateway JavaScript GraphQL Simplicity is t
 WebSockets Machine Learning Do what you love and the money will follow. Version Control Edge Computing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Latency Optimization Lambda Functions Simplicity is the ultimate sophistication. OAuth Algorithm
 Dream big and dare to fail. Success is not in what you have, but who you are. DevOps Zero Downtime Deployment Blockchain Container Orchestration Data Science Message Queue Database
+Microservices Success is how high you bounce when you hit bottom. DNS Routing The only way to do great work is to love what you do. Logging Load Testing Act as if what you do makes a difference. It does. Algorithm
