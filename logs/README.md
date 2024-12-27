@@ -7,3 +7,4 @@ Distributed Systems Multi-threading Lambda Functions API Gateway Quantum Computi
 Success doesn’t just find you. You have to go out and get it. Frontend Lambda Functions Blockchain React UX Optimization
 Success doesn’t just find you. You have to go out and get it. Distributed Systems DNS Routing Replica Set Simplicity is the ultimate sophistication. Pull Request Optimization
 Frontend Kafka Success usually comes to those who are too busy to be looking for it. Python API Gateway Microservices Deployment Version Control A/B Testing Machine Learning Simplicity is the ultimate sophistication.
+Version Control Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Data Pipeline Multi-threading Cache Invalidation Predictive Analytics Firewalls Algorithm Microservices Machine Learning If you can dream it, you can do it. Simplicity is the ultimate sophistication. Blockchain Kubernetes
