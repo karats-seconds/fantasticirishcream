@@ -6,3 +6,4 @@ Data Pipeline UX Optimization Machine Learning Cloud Functions Success is not in
 Load Balancing Pull Request Database Indexing Stay hungry, stay foolish. If you can dream it, you can do it. CI/CD Multi-threading RabbitMQ Version Control Security DevOps Server Response Code Review Blockchain UX Optimization
 DevOps Kafka Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Deployment Don't be afraid to give up the good to go for the great. Event Sourcing Work hard in silence, let your success be your noise. Cache Invalidation Server Response IoT
 Latency Optimization JavaScript Neural Networks Success is how high you bounce when you hit bottom. Logging
+JWT Serverless Docker Testing Cloud Functions

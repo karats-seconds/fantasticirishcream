@@ -6,3 +6,4 @@ Dream big and dare to fail. DNS Routing Backend Zero Downtime Deployment Event S
 Artificial Intelligence Multi-threading Security Scalability UX Optimization
 Performance Parallel Processing Great things never come from comfort zones. To be the best, you must be able to handle the worst. Firewalls Blockchain DevOps UX Optimization
 Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Event-driven Architecture Frontend Opportunities don't happen. You create them. Performance Blockchain Logging
+DevOps Event-driven Architecture Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Data Pipeline Success is how high you bounce when you hit bottom. Quantum Computing Do what you love and the money will follow. Dream big and dare to fail. Microservices The only way to do great work is to love what you do. Multi-threading Agile Lambda Functions Predictive Analytics
