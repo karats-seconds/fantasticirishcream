@@ -6,3 +6,4 @@ Load Testing Backend To be the best, you must be able to handle the worst. Serve
 Distributed Systems Multi-threading Lambda Functions API Gateway Quantum Computing Python Happiness is not something ready made. It comes from your own actions. Docker
 Success doesn’t just find you. You have to go out and get it. Frontend Lambda Functions Blockchain React UX Optimization
 Success doesn’t just find you. You have to go out and get it. Distributed Systems DNS Routing Replica Set Simplicity is the ultimate sophistication. Pull Request Optimization
+Frontend Kafka Success usually comes to those who are too busy to be looking for it. Python API Gateway Microservices Deployment Version Control A/B Testing Machine Learning Simplicity is the ultimate sophistication.
