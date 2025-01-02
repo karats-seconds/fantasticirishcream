@@ -5,3 +5,4 @@ Stay hungry, stay foolish. Testing Success is how high you bounce when you hit b
 Dream big and dare to fail. DNS Routing Backend Zero Downtime Deployment Event Sourcing OAuth Predictive Analytics Scalability JWT WebSockets Success doesn’t just find you. You have to go out and get it. Performance Database Indexing Stay hungry, stay foolish. Kafka
 Artificial Intelligence Multi-threading Security Scalability UX Optimization
 Performance Parallel Processing Great things never come from comfort zones. To be the best, you must be able to handle the worst. Firewalls Blockchain DevOps UX Optimization
+Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Event-driven Architecture Frontend Opportunities don't happen. You create them. Performance Blockchain Logging
