@@ -4,3 +4,4 @@ Container Orchestration Pull Request Event-driven Architecture DevOps Cache Inva
 Code Review Quantum Computing Database Indexing Big Data Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Docker To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Artificial Intelligence
 Firewalls Virtual Machines Distributed Systems Dream big and dare to fail. Kafka Latency Optimization Success is how high you bounce when you hit bottom. Cloud Edge Computing
 Latency Optimization Success is how high you bounce when you hit bottom. Neural Networks GraphQL React Parallel Processing Stay hungry, stay foolish. Monitoring Security Event Sourcing Data Pipeline DNS Routing
+Frontend Event-driven Architecture I find that the harder I work, the more luck I seem to have. Parallel Processing Cache Invalidation Big Data UX Optimization Automation GraphQL
