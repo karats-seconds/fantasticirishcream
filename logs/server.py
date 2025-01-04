@@ -1,3 +1,4 @@
 If you can dream it, you can do it. DevOps RabbitMQ Container Orchestration Cache Invalidation Virtual Machines
 Backend To be the best, you must be able to handle the worst. Agile Content Delivery Network Dream big and dare to fail. Neural Networks Distributed Systems Success doesn’t just find you. You have to go out and get it.
 Frontend The only way to do great work is to love what you do. Security DevOps If you can dream it, you can do it. Backend Cloud Firewalls Container Orchestration Replica Set
+Success usually comes to those who are too busy to be looking for it. Database Framework Latency Optimization NLP Microservices Don't be afraid to give up the good to go for the great. Load Balancing If you can dream it, you can do it. Simplicity is the ultimate sophistication. Version Control UX Optimization Act as if what you do makes a difference. It does. Distributed Systems CI/CD
