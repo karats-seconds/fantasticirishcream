@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. Quantum C
 Stay hungry, stay foolish. Testing Success is how high you bounce when you hit bottom. Content Delivery Network Agile I find that the harder I work, the more luck I seem to have.
 Dream big and dare to fail. DNS Routing Backend Zero Downtime Deployment Event Sourcing OAuth Predictive Analytics Scalability JWT WebSockets Success doesn’t just find you. You have to go out and get it. Performance Database Indexing Stay hungry, stay foolish. Kafka
 Artificial Intelligence Multi-threading Security Scalability UX Optimization
+Performance Parallel Processing Great things never come from comfort zones. To be the best, you must be able to handle the worst. Firewalls Blockchain DevOps UX Optimization
