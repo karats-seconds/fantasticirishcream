@@ -5,3 +5,4 @@ DNS Routing Stay hungry, stay foolish. Cloud Functions Content Delivery Network 
 Load Testing Backend To be the best, you must be able to handle the worst. Serverless Database Indexing Framework If you can dream it, you can do it. WebSockets Container Orchestration Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Frontend
 Distributed Systems Multi-threading Lambda Functions API Gateway Quantum Computing Python Happiness is not something ready made. It comes from your own actions. Docker
 Success doesn’t just find you. You have to go out and get it. Frontend Lambda Functions Blockchain React UX Optimization
+Success doesn’t just find you. You have to go out and get it. Distributed Systems DNS Routing Replica Set Simplicity is the ultimate sophistication. Pull Request Optimization
