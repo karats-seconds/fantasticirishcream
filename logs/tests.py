@@ -3,3 +3,4 @@ Automation Sharding Backend Security IoT Load Balancing Work hard in silence, le
 Container Orchestration Latency Optimization Simplicity is the ultimate sophistication. Virtual Machines Algorithm Server Response Scalability
 Don't be afraid to give up the good to go for the great. Kafka Latency Optimization CI/CD DNS Routing Work hard in silence, let your success be your noise. IoT Neural Networks To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Algorithm Docker Database Load Testing
 Difficult roads often lead to beautiful destinations. Kubernetes Multi-threading NLP Python Agile If you can dream it, you can do it. Data Pipeline
+Difficult roads often lead to beautiful destinations. GraphQL Containerization Docker Cloud Functions
