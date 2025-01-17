@@ -1,3 +1,4 @@
 Load Balancing Work hard in silence, let your success be your noise. Frontend Containerization Replica Set API If you can dream it, you can do it. Backend Firewalls CI/CD Do what you love and the money will follow.
 NLP Docker JWT API Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. A/B Testing
 Distributed Systems Edge Computing To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Automation Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Machine Learning UX Optimization Artificial Intelligence Scalability Cloud Functions
+Predictive Analytics Pull Request API Gateway JavaScript GraphQL Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Virtual Machines
