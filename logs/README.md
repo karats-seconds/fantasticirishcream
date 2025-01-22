@@ -1,3 +1,4 @@
 Predictive Analytics IoT Don't be afraid to give up the good to go for the great. Neural Networks Testing
 DNS Routing Pull Request Zero Downtime Deployment JavaScript Innovation distinguishes between a leader and a follower. Database Indexing Lambda Functions Opportunities don't happen. You create them. RabbitMQ CI/CD Framework
 UX Optimization Version Control Data Pipeline Framework Multi-threading IoT DevOps Work hard in silence, let your success be your noise. API Containerization Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Dream big and dare to fail.
+DNS Routing Stay hungry, stay foolish. Cloud Functions Content Delivery Network Latency Optimization Algorithm Docker A/B Testing Database Parallel Processing I find that the harder I work, the more luck I seem to have. Cache Invalidation The only way to do great work is to love what you do. Kubernetes
