@@ -1,0 +1,1 @@
+Firewalls Machine Learning Event Sourcing Optimization Event-driven Architecture To be the best, you must be able to handle the worst. Cloud Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Artificial Intelligence Quantum Computing Replica Set Cache Invalidation
