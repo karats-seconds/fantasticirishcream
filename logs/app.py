@@ -1,0 +1,1 @@
+Containerization Success doesn’t just find you. You have to go out and get it. JWT Simplicity is the ultimate sophistication. Serverless Scalability JavaScript Security IoT Zero Downtime Deployment API Gateway Predictive Analytics Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Event Sourcing
